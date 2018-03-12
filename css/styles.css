@@ -1,0 +1,44 @@
+body {
+  padding: 20px 0px;
+}
+
+.row>div {
+  background-color: #333;
+}
+
+.h-xs {
+  height: 20px
+}
+
+.h-sm {
+  height: 60px;
+}
+
+.h-md {
+  height: 200px;
+}
+
+.h-lg {
+  height: 200px;
+}
+
+.h-gap-sm {
+  margin: 0px 48px;
+}
+
+.row-one {
+  margin-bottom: 40px;
+  height: 60px;
+}
+
+.row-two {
+  margin-bottom: 80px;
+}
+
+.row-three {
+  margin-bottom: 40px;
+}
+
+.row-four {
+  margin-bottom: 80px;
+}
